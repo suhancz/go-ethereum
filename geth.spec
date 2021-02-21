@@ -10,7 +10,6 @@ License:                Ethereum
 Group:                  System/Base
 Vendor:                 Ethereum
 Url:                    https://geth.ethereum.org
-# Source:               %{name}.tar.gz
 BuildArch:              x86_64
 BuildRoot:              %{_tmppath}/%{name}-%{version}-tmp
 # BuildRequires:
